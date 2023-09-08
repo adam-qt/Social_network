@@ -1,0 +1,103 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+
+# Database files
+*.sqlite3
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Virtual environment
+/venv/
+env/
+*.pyc
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Dependency directories
+lib/
+lib64/
+include/
+bin/
+pyvenv.cfg
+
+# Compiled C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Testing
+.coverage
+.tox/
+
+# Translations
+*.mo
+
+# Django stuff:
+*.log
+*.pot
+local_settings.py
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+.Pipfile.lock
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.venv
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# pytype
+.pytype/
+
